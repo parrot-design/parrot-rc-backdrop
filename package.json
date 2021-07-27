@@ -1,6 +1,6 @@
 {
   "name": "@parrotjs/react-backdrop",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "一个背景板组件",
   "main": "dist/parrotreactbackdrop.cjs.js",
   "module": "dist/parrotreactbackdrop.esm.js",
